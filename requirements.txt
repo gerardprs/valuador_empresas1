@@ -1,5 +1,3 @@
 streamlit
 pandas
-yfinance          # dejamos yfinance como respaldo
-python-dotenv
-alpha_vantage     # ⬅️  NUEVA
+finnhub-python
