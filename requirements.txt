@@ -1,4 +1,5 @@
 streamlit
 pandas
-yfinance
+yfinance          # dejamos yfinance como respaldo
 python-dotenv
+alpha_vantage     # ⬅️  NUEVA
